@@ -31,7 +31,7 @@
 </a>
 
 <a href="https://github.com/randykyle76">
-  <img src="https://github-readme-stats.randykyle76.vercel.app/api/top-langs/?username=randykyle76&layout=compact&theme=radical&count_private=true&locale=de"
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=randykyle76&layout=compact&theme=radical&count_private=true&locale=de"
 </a>
 
 <p align="center">
