@@ -31,7 +31,7 @@
 </a>
 
 <a href="https://github.com/randykyle76">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=randykyle76&layout=compact&theme=radical&count_private=true&locale=de"
+  <img src="https://github-readme-stats.randykyle76.vercel.app/api/top-langs/?username=randykyle76&layout=compact&theme=radical&count_private=true&locale=de"
 </a>
 
 <p align="center">
@@ -41,7 +41,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="50" alt="css" border="5">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50" alt="python" border="5">
   <img heigth="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="60" border="5">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/shell/shell.png" width="50" border="5"><br>
+  <img height="40" srch="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/shell/shell.png" width="50" border="5"><br>
 </p>
 <div align="center">
 
