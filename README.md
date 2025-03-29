@@ -20,10 +20,6 @@
 
 - ☕ awali dengan ngopi
 
-[![](https://github.com/randykyle76/randykyle76/blob/main/giv_img/programmer-cycle.gif)](https://github.com/randykyle76)<br>
-[![GitHub randykyle76](https://img.shields.io/github/followers/randykyle76?label=follow&style=social)](https://github.com/randykyle76)
-<code><img align="polygon's Youtube" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png"></code>  
-### bahasa yg saya pakai
 
 <a href="https://youtube.com/channel/RANDYKYLE-g1">
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png" /><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fish/fish.png" /><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" /></code>
