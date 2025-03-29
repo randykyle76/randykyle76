@@ -22,8 +22,7 @@
 
 
 <a href="https://youtube.com/channel/RANDYKYLE-g1">
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png" /><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/python/fish/python.png" /><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-</a>
+
 <h1 align="center">
   Stats saya
 </h1></div>
