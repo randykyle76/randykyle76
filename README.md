@@ -1,6 +1,6 @@
 ## halo [saya Kyle!](https://github.com/randykyle76) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=polygon&label=Views&color=green&style=plastic" alt="Kyle" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kyle&label=Views&color=green&style=plastic" alt="Kyle" /> </p>
 
 <a href="https://github.com/randykyle76">
   <img align="left" alt="randykyle76's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
