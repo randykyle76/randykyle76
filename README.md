@@ -21,17 +21,15 @@
 
 
 <code><img align="Kyle's Youtube" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png"></code>  
-### bahasa yg saya pakai
 
-<a 
-  Stats saya
+###Stats saya
 </h1></div>
 <a href="https://github.com/randykyle76">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=randykyle76&show_icons=true&theme=dark&line_height=27" alt="Kyle's github stats"/>
 </a>
 
 <a href="https://github.com/randykyle76">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=randykyle76&layout=compact&theme=radical&count_private=true&locale=de"
+  <img src="https://github-readme-stats.randykyle76.vercel.app/api/top-langs/?username=randykyle76&layout=compact&theme=radical&count_private=true&locale=de"
 </a>
 
 
